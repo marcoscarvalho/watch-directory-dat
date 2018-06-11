@@ -7,7 +7,7 @@ Para mais informações, segue o link.
 https://docs.oracle.com/javase/tutorial/essential/io/notification.html
 
 ## Arquivos
-Os tipos de arquivos que devem ser lidos parte do seguinte princípio, encontrados na pasta data/in/*.dat
+Os tipos de arquivos que devem ser lidos parte do seguinte princípio, encontrados na pasta data/in/*.dat:
 ```
 001ç1234567891234çPedroç50000
 001ç3245678865434çPauloç40000.99
